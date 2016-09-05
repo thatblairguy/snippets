@@ -1,0 +1,72 @@
+[
+	{
+		"author" : "Michael Jan Friedman",
+		"title" : "Aztlan: The Maxtla Colhua Mysteries",
+		"isbn" : "9780615758848",
+		"pub_date" : "2013-01-24",
+		"publisher" : "Crazy 8 Press"
+	},
+    {
+		"author" : "Robert Greenberger",
+		"title" : "ReDeus: Native Lands",
+		"isbn" : "9781892544070",
+		"pub_date" : "2013-07-21",
+		"publisher" : "Crazy 8 Press"
+	},
+	{
+		"author" : "Peter David",
+		"title" : "Height of the Depths",
+		"isbn" : "0983687722",
+		"pub_date" : "2012-03-02",
+		"publisher" : "Crazy 8 Press"
+    },
+	{
+		"author" : "Robert Greenberger",
+		"title" : "Disney's Winnie The Pooh Cinestory",
+		"isbn" : "9781926516103",
+		"pub_date" : "2016-07-12",
+		"publisher" : "Joe Books Inc."
+	},
+	{
+		"author" : "Peter David",
+		"title" : "The Camelot Papers",
+		"isbn" : "0983687706",
+		"pub_date" : "2011-07-01",
+		"publisher" : "Crazy 8 Press"
+	},
+	{
+		"author" : "Michael Jan Friedman",
+		"title" : "Fight the Gods",
+		"isbn" : "0615567010",
+		"pub_date" : "2011-11-29",
+		"publisher" : "Crazy 8 Press"
+	},
+	{
+		"author" : "Michael Jan Friedman",
+		"title" : "Day of Honor: Her Klingon Soul",
+		"isbn" : "1451641702",
+		"pub_date" : "2014-06-14",
+		"publisher" : "Crazy 8 Press"
+	},
+	{
+		"author" : "Robert Greenberger",
+		"title" : "Tales of the Crimson Keep",
+		"isbn" : "9781892544094",
+		"pub_date" : "2014-07-16",
+		"publisher" : "Crazy 8 Press"
+	},
+	{
+		"author" : "Peter David",
+		"title" : "Pyramid Schemes: A Tale of Sir Apropos of Nothing (Volume 4)",
+		"isbn" : "9780983687771",
+		"pub_date" : "2016-06-30",
+		"publisher" : "Second Age, Incorporated"
+	},
+	{
+		"author" : "Michael Jan Friedman",
+		"title" : "Tales of the Crimson Keep",
+		"isbn" : "9781892544094",
+		"pub_date" : "2014-07-16",
+		"publisher" : "Crazy 8 Press"
+	}
+]
