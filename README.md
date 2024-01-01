@@ -1,13 +1,26 @@
 # Assorted code snippets
 
-## connection-tester
 
-Test a SQL Server connection.  Node.JS
+## NodeJS
 
-## loadJSON
+### connection-tester
 
-Load and parse a JSON file. Node.JS
+Test a SQL Server connection.
 
-## sql-to-csv
+### loadJSON
+
+Load and parse a JSON file.
+
+
+## PowerShell
+
+### sql-to-csv
 
 Execute an arbitrary SQL query and output the results as comma-separated values
+
+
+## Python
+
+### astral
+
+Experiments with retrieving sun position data from the `astral` package.
