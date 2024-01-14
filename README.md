@@ -24,3 +24,7 @@ Execute an arbitrary SQL query and output the results as comma-separated values
 ### astral
 
 Experiments with retrieving sun position data from the `astral` package.
+
+### python-unit-tests
+
+Example of a project with unit tests.  (Well, OK, a project with one test.)
